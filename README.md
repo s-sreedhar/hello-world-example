@@ -1,5 +1,5 @@
 # hello-world-example
-A Simple Hello World Example Package
+A Hello World Example Package
 
 ## Installation
 Install via NPM:
