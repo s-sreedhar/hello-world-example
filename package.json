@@ -1,0 +1,39 @@
+{
+    "name": "hello-world-example",
+    "version": "1.0.4",
+    "description": "a hello world example",
+    "main": "index.js",
+    "scripts": {
+      "test": "mocha test.js"
+    },
+    "license": "MIT",
+    "keywords": [
+      "hello world"
+    ],
+    "author": "Sreedhar Goud<s.sreedhargoud@gmail.com>",
+    "engines": {
+      "node": ">4.0"
+    },
+    "homepage": "http://github.com/s-sreedhar/hello-world-example",
+    "licenses": [
+      {
+        "type": "MIT",
+        "url": "http://github.com/s-sreedhar/hello-world-example/LICENSE"
+      }
+    ],
+    "contributors": [
+      {
+        "name": "Sreedhar Goud",
+        "email": "s.sreedhargoud@gmail.com",
+        "url": "https://github.com/s-sreedhar"
+      }
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/s-sreedhar/hello-world-example"
+    },
+    "devDependencies": {
+      "chai": "4.1.2",
+      "mocha": "5.0.5"
+    }
+  }
